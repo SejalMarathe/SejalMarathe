@@ -7,7 +7,7 @@
   <h2>🛠️ Popular Repositories</h2>
   <ol>
     <li>EDA:  <a href="https://github.com/SejalMarathe/Exploratory-Data-Analysis---EDA">EDA on titanic Tutorial</a> </li>
-    <li>MLFlow: <a href="https://github.com/stars/ShubhPatil95/lists/mlflow">MLFlow Tutorial</a> </li>
+    <li>Car_Price_Prediction: <a href="https://github.com/SejalMarathe/car_price_prediction">MLFlow Tutorial</a> </li>
     <li>Flask: <a href="https://github.com/ShubhPatil95/Flask_Outputs_Methods">Flask Tutorial</a> </li>
   </ol>
   
